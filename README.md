@@ -7,7 +7,7 @@ Wine is a free and open source software application that aims to allow computer 
 
 # Installation
 1. Open your Terminal by pressing **Ctrl+Alt+T**<br>
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/2_terminal.png" width="400">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/2_terminal.png" width="500">  <br>
 2. Start by enabling the 32-bit architecture.
 ```
 sudo dpkg --add-architecture i386
@@ -39,7 +39,7 @@ The Wine version will be displayed if the packages are installed correctly.
 winecfg
 ```
 <img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/3_Wine_cfg.png" width="400">  <br>
-8.You can select your windows Version.
+8.You can select your Windows Version.
 # Installing a Windows Executable(.exe) file
 ## Installation of Notepad++
 9. Download the Notepad++ installer file from [here](https://notepad-plus-plus.org/downloads/).
