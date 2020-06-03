@@ -1,13 +1,13 @@
 ## Installing Wine on Ubuntu 18.04 
 # WINE
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/1_Wine.jpeg" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/1_Wine.jpeg" width="400">  <br>
 Wine is a free and open source software application that aims to allow computer programs written for Microsoft Windows to run on Unix-like operating systems. Wine also provides a software library, known as Winelib, against which developers can compile Windows applications to help port them to Unix-like systems.
 ### Note : We are going to install Wine 3.0.However, the version included  may lag behind the latest version of Wine.
 
 
 # Installation
 1. Open your Terminal by pressing **Ctrl+Alt+T**<br>
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/2_terminal.png" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/2_terminal.png" width="400">  <br>
 2. Start by enabling the 32-bit architecture.
 ```
 sudo dpkg --add-architecture i386
@@ -38,19 +38,19 @@ The Wine version will be displayed if the packages are installed correctly.
 ```
 winecfg
 ```
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/3_Wine_cfg.png" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/3_Wine_cfg.png" width="400">  <br>
 8.You can select your windows Version.
 # Installing a Windows Executable(.exe) file
 ## Installation of Notepad++
 9. Download the Notepad++ installer file from [here](https://notepad-plus-plus.org/downloads/).
 10. Go to the folder where you have downloaded the.exe file<br>
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/4_Folder.png" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/4_Folder.png" width="400">  <br>
 11. **Right Click** >> **Open in Terminal**
 12. Type
 ```
 wine Your_installer_name.exe
 ```
 13. The installer will be opened.Now complete the Installation Process.<br><br>
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/5_Note.png" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/5_Note.png" width="400">  <br>
 
 14. After the installation you can open **Notepad++** from the **Show Applications** tab on your desktop.
