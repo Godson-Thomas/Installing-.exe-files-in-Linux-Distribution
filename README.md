@@ -43,7 +43,7 @@ winecfg
 # Installing a Windows Executable(.exe) file
 ## Installation of Notepad++
 9. Download the Notepad++ installer file from [here](https://notepad-plus-plus.org/downloads/).
-10. Go to the folder where you have downloaded the.exe file<br>
+10. Go to the folder where you have downloaded the **.exe** file<br>
 <img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/4_Folder.png" width="400">  <br><br>
 11. **Right Click** >> **Open in Terminal**
 12. Type
