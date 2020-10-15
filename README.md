@@ -50,7 +50,7 @@ winecfg
 ```
 wine Your_installer_name.exe
 ```
-13. The installer will be opened.Now complete the Installation Process.<br><br>
+13. The installer will be opened.Now complete the installation process.<br><br>
 <img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/5_Note.png" width="400">  <br><br>
 
 14. After the installation you can open **Notepad++** from the **Show Applications** tab on your desktop.
